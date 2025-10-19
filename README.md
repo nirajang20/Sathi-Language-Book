@@ -1,108 +1,95 @@
-### 📘 **README.md**
+# Sathi Language: Code with Culture
 
-```markdown
-# 🌸 Sathi Language — Code with Culture  
-### *Advanced Founder’s Edition*  
-> **“Code with culture — build with Sathi.”**  
-> by [**Nirajan Ghimire**](https://www.nirajang.com.np)
+*Advanced Founder's Edition*  
+> "Code with culture—build with Sathi." — [Nirajan Ghimire](https://www.nirajang.com.np)
 
 ---
 
-## 🧠 Overview
+## Overview
 
-**Sathi Language** is a Nepali-inspired, human-friendly programming language created by **Nirajan Ghimire**.  
-It blends **cultural expression** with **computational logic**, letting you write code that feels conversational, intuitive, and emotionally expressive.
+Sathi Language is a Nepali-inspired, human-friendly programming language created by Nirajan Ghimire. It blends cultural expression with computational logic, letting you write code that feels conversational, intuitive, and emotionally expressive.
 
-> Sathi is more than syntax — it’s a philosophy that makes coding *personal*.
+> Sathi is more than syntax—it is a philosophy that makes coding personal.
 
 ---
 
-## 📗 About This Book
+## About This Book
 
-This repository contains the **Leanpub edition** of  
-📘 *“Sathi Language: Code with Culture — Advanced Founder’s Edition.”*  
+This repository contains the Leanpub edition of the book *Sathi Language: Code with Culture — Advanced Founder's Edition.*
 
-Each chapter combines **technical precision** with **cultural storytelling**, guiding you from installation to interpreter design,  
-from small creative projects to a global open-source ecosystem.
+Each chapter combines technical precision with cultural storytelling, guiding you from installation to interpreter design, from small creative projects to a growing open-source ecosystem.
 
-### 📂 Folder Structure
+### Folder Structure
+
 ```
-
 Sathi-Language-Book/
 ├── Book.txt
 └── manuscript/
-├── 00-cover.md
-├── 00-table-of-contents.md
-├── 01-introduction.md
-├── 02-installation.md
-├── 03-syntax.md
-├── 04-functions.md
-├── 05-interpreter.md
-├── 06-projects.md
-├── 07-ecosystem.md
-├── 08-future.md
-└── appendix.md
-
-````
+    ├── 00-cover.md
+    ├── 00-table-of-contents.md
+    ├── 01-introduction.md
+    ├── 02-installation.md
+    ├── 03-syntax.md
+    ├── 04-functions.md
+    ├── 05-interpreter.md
+    ├── 06-projects.md
+    ├── 07-ecosystem.md
+    ├── 08-future.md
+    └── appendix.md
+```
 
 ---
 
-## 🌏 Links
+## Links
 
 | Resource | URL |
-|-----------|-----|
-| 🌐 Website | [https://nirajang.com.np/sathi](https://nirajang.com.np/sathi) |
-| 💻 GitHub (Language Repo) | [https://github.com/nirajang20/Sathi-Language](https://github.com/nirajang20/Sathi-Language) |
-| 📦 PyPI | [https://pypi.org/project/sathi-lang](https://pypi.org/project/sathi-lang) |
-| 📘 Leanpub (Book) | *(link will appear after publication)* |
+| --- | --- |
+| Website | [https://nirajang.com.np/sathi](https://nirajang.com.np/sathi) |
+| GitHub (Language Repo) | [https://github.com/nirajang20/Sathi-Language](https://github.com/nirajang20/Sathi-Language) |
+| PyPI | [https://pypi.org/project/sathi-lang](https://pypi.org/project/sathi-lang) |
+| Leanpub (Book) | Link will appear after publication |
 
 ---
 
-## ⚙️ How to Read This Book Locally
+## Read the Book Locally
 
-You can preview the book as Markdown or use Leanpub’s web/ebook versions.
+Preview the book as Markdown or use Leanpub's web and ebook formats.
 
-### 💾 Local Markdown Preview
+### Local Markdown Preview
+
 ```bash
 cd manuscript
 open 01-introduction.md
-````
-
-### 📘 Leanpub Rendering
-
-If connected to Leanpub:
-
-1. Go to your [Leanpub Dashboard](https://leanpub.com/dashboard)
-2. Connect the repo `nirajang20/Sathi-Language-Book`
-3. Click **“Preview Book”** → Leanpub auto-generates PDF, EPUB, and MOBI
-
----
-
-## 🧩 About the Author
-
-**Nirajan Ghimire** is a self-taught coder, web developer, and IoT enthusiast.
-He began coding at age 13, building his first website and later founding the **Sathi Language** project.
-Nirajan believes that **technology should not erase identity — it should echo it.**
-
-> “When machines speak our words, they finally start to understand us.”
-
----
-
-## 🪶 License
-
-This project is licensed under the **MIT License** —
-free for personal and educational use, with attribution.
-
----
-
-## 💬 Contact
-
-**Author:** [Nirajan Ghimire](https://www.linkedin.com/in/nirajang/)
-**Website:** [https://nirajang.com.np](https://nirajang.com.np)
-**GitHub:** [@nirajang20](https://github.com/nirajang20)
-
----
-
-> 🌸 *A friendly language born in Nepal — simplifying code, one “Sathi” at a time.*
-
 ```
+
+### Leanpub Rendering
+
+1. Go to your [Leanpub Dashboard](https://leanpub.com/dashboard).
+2. Connect the repository `nirajang20/Sathi-Language-Book`.
+3. Click **Preview Book** to generate PDF, EPUB, and MOBI outputs.
+
+---
+
+## About the Author
+
+Nirajan Ghimire is a self-taught coder, web developer, and IoT enthusiast. He began coding at age 13, built his first website, and later founded the Sathi Language project. Nirajan believes that technology should not erase identity—it should echo it.
+
+> "When machines speak our words, they finally start to understand us."
+
+---
+
+## License
+
+This project is released under the MIT License. You are free to use it for personal and educational purposes with attribution.
+
+---
+
+## Contact
+
+- Author: [Nirajan Ghimire](https://www.linkedin.com/in/nirajang/)
+- Website: [https://nirajang.com.np](https://nirajang.com.np)
+- GitHub: [@nirajang20](https://github.com/nirajang20)
+
+---
+
+> A friendly language born in Nepal—simplifying code, one "Sathi" at a time.
