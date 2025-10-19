@@ -1,0 +1,11 @@
+00-cover.md
+00-table-of-contents.md
+01-introduction.md
+02-installation.md
+03-syntax.md
+04-functions.md
+05-interpreter.md
+06-projects.md
+07-ecosystem.md
+08-future.md
+appendix.md
